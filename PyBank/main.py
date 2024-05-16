@@ -3,6 +3,7 @@ import os
 import csv
 
 # All Variable
+
     total_months = 0
     total_profit_losses = 0
     changes_profit_losses = []
