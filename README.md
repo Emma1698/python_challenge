@@ -85,4 +85,10 @@ Winner: Diana DeGette
 
 * Always commit your work and back it up with pushes to GitHub or GitLab. You don't want to lose hours of your hard work! Also make sure that your repo has a detailed README.md file.
 
-## Add tutor and class help
+## Extra help received from the following
+* 2 Tutor Session with 
+    - Mohamed
+    - Justin
+* Study group with the following classmate
+    - Kim Crespo
+    - Brian Loutzenhiser
